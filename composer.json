@@ -7,9 +7,5 @@
             "homepage": "http://www.about.me/jafarsidik",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "monolog/monolog": "1.0.*"
-    },
-    "version": "1.0.0"
+    ]
 }
