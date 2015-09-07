@@ -1,5 +1,5 @@
 {
-    "name": "Neuron/Db",
+    "name": "neuron/db",
     "description": "Query Helpers DB ZF2 neuronworks Version",
     "license": "GNU Public license",
     "authors": [
