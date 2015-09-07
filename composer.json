@@ -1,0 +1,15 @@
+{
+    "name": "neuron/db",
+    "authors": [
+        {
+            "name": "Muhamad Jafar Sidik",
+            "email": "jeff@neuronworks.co.id",
+            "homepage": "http://www.about.me/jafarsidik",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "version": "1.0.0"
+}
