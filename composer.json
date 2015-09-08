@@ -22,7 +22,7 @@
         "zendframework/zendframework" : "2.*"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Neuron\\Db\\Storage\\": "src/"
             
         }
