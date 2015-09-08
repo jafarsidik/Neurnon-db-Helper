@@ -1,6 +1,7 @@
 {
     "name": "jafarsidik/neuron",
     "description": "Query Helpers DB ZF2 neuronworks Version",
+    "type": "module",
     "license": "GNU Public license",
     "authors": [
         {
