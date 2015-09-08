@@ -15,7 +15,7 @@
         "neuron-db",
         "zf2"
     ],
-    "homepage" : "https://github.com/jafarsidik/Neurnon-db-Helper",
+    "homepage" : "https://github.com/jafarsidik/Neuron",
     "minimum-stability": "stable",
     "version": "1.0.0",
     "require": {
