@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Neuron\\Db\\Storage\\": "neuron/db/src/Neuron/Db"
+            "Neuron\\Db\\Storage\\": "src/Neuron/Db"
             
         }
     }
